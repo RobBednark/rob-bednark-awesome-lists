@@ -36,6 +36,9 @@ These are opinionated lists of things I find awesome -- things I find productive
 - tab groups
 - shift+cmd+A (Tab > Search Tabs)
 
+### iTerm2 features
+- Cmd+Shift+O (View > Open Quickly) then input ‘/f’ to filter to restrict the query to existing sessions  https://iterm2.com/documentation-one-page.html
+
 ## Obsidian
 
 ### Obsidian Extensions
