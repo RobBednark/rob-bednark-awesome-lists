@@ -1,7 +1,9 @@
 (modeled after https://github.com/jlevy/the-art-of-command-line)
 # Rob Bednark's Awesome Lists
 
-These are opinionated lists of things I find awesome -- things I find productive, useful, and/or bring me joy, that I would not want to live without.
+# TODO: merge [[about_me]] into this
+
+These are opinionated lists of things I find awesome -- things I find productive, useful, and/or bring me joy and delight me, that I would not want to live without.
 
 - [Mac Apps](#mac-apps)
 - [brew packages](#brew-packages)
@@ -12,6 +14,15 @@ These are opinionated lists of things I find awesome -- things I find productive
 - [VSCode](#vscode)
 - [Coding Practices](#coding-practices)
 
+# iOS / iPhone apps
+- Brave browser
+- Google Play Books
+- Google Sheets
+- Shazam
+- Spotify
+- reMarkable
+- Radio Garden
+- 
 ## Mac Apps
 - Docker Desktop
 - homebrew
