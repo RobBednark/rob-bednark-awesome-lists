@@ -15,6 +15,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - [Coding Practices](#coding-practices)
 
 # iOS / iPhone apps
+- Alarm Clock 
 - Brave browser - automatic ad blocking; no YouTube ads
 - Google Play Books
 - Google Sheets
@@ -32,6 +33,7 @@ These are opinionated lists of things I find awesome -- things I find productive
     - Quicklinks with aliases (Chrome, Finder)
 - Rectange (window resizing/positioning)
 - Rocket - emoji
+- Spotify
 - Sublime Merge
 - VSCode
 
@@ -91,6 +93,43 @@ These are opinionated lists of things I find awesome -- things I find productive
 - neovim
 
 ## Coding Practices
-- learn scripts
+- "learn" programs
 - .bashrc: adding comments with tips, then grep it
 - shell script options: for simpler coding, use environment variables instead of options, e.g., DEBUGGING=yes 
+
+# Awesome Things I Own
+- Apple AirPods
+- bidet attachment (LUXE Bidet NEO 120 - $37 Amazon https://a.co/d/fixHvpU)
+- Capresso Electric Water Kettle
+- cast iron skillets
+- Chevy Bolt car
+- coffee grinder
+- electric toothbrush
+- gloves
+- Google Chromecast
+- head lamp
+- ice cream maker
+- immersion blender
+- infrared thermometer gun
+- kitchen scale (Amazon Basics, $10 https://a.co/d/0z4CwNT)
+- portable laptop stand (SKERELL 17" to 48", Amazon, $63  https://a.co/d/3Ngozf8)
+- portable monitor/TV tripod stand (PERLESMITH, Amazon, $55, https://a.co/d/bkrlhyR)
+- Mr. Coffee Coffee Maker 4-cup (Amazon, $20, https://a.co/d/8zNYSYG)
+- Nutribullet
+- reflective safety vest for walking/running (FREEMOVE, $14 Amazon, https://a.co/d/hPWTTY1)
+- reflective safety vest for walking/running (247 Viz , $29 Amazon, https://a.co/d/dGxdDRB)
+- reMarkable 2 digital paper display ($400 https://remarkable.com/store/overview/remarkable-2)
+- MacBook laptop
+- security camera (Blink Mini Pan-Tilt Camera) (perfect for seeing our cats while we're traveling)
+- Sony noise-cancelling bluetooth headphones (WM-1000 XM4) ($300 https://a.co/d/2CGnMBT)
+- TENS EMS (AUVON Dual Channel) ($30 Amazon https://a.co/d/fLUHgr5)
+- Thermos 16 oz stainless steel travel tumbler (coffee/tea) ($30 Amazon https://a.co/d/a9DSlns)
+- Wondershade portable sunshade umbrella ($60 Amazon https://a.co/d/51D2iMx)
+- write rests for laptop (VAGAU, $25 Amazon)
+- Now & Zen Zen alarm clock ($125 25 yrs ago) (https://now-zen.com/)
+
+# Awesome Foods I Like
+- Garden of Eden Vegan Protein Powder (Raw Organic Meal Replacement Shake)
+- Nordic Ultimate Omega
+- Vitamin D-3 (NOW Foods)
+
