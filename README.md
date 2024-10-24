@@ -15,14 +15,14 @@ These are opinionated lists of things I find awesome -- things I find productive
 - [Coding Practices](#coding-practices)
 
 # iOS / iPhone apps
-- Brave browser
+- Brave browser - automatic ad blocking; no YouTube ads
 - Google Play Books
 - Google Sheets
 - Shazam
 - Spotify
 - reMarkable
 - Radio Garden
-- 
+
 ## Mac Apps
 - Docker Desktop
 - homebrew
@@ -30,7 +30,9 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Obsidian
 - Raycast
     - Quicklinks with aliases (Chrome, Finder)
-- Rocket
+- Rectange (window resizing/positioning)
+- Rocket - emoji
+- Sublime Merge
 - VSCode
 
 ## brew packages
@@ -41,14 +43,23 @@ These are opinionated lists of things I find awesome -- things I find productive
 ### Chrome extensions
 - duplicate tab (I'm duplicating tabs all the time, e.g., Amazon - looking at a product, want to keep the tab open but click on other links in the page; LinkedIn - looking at a profile, keep it open, but click on links; Google Sheets -- want to open other tabs)
 - Extensity
+- Obsidian Web - highlight and save web page content to Obsidian
+- GoFullPage - 
 - MultiLine Text Selection - outstanding for copying multiple chunks of text from a page with a single copy operation
 
 ### Chrome features
 - tab groups
 - shift+cmd+A (Tab > Search Tabs)
 
+### Django packages
+- django-debug-toolbar
+### Git
+- `git rebase -i` (fixups)
+
 ### iTerm2 features
 - Cmd+Shift+O (View > Open Quickly) then input ‘/f’ to filter to restrict the query to existing sessions  https://iterm2.com/documentation-one-page.html
+- auto-save all terminal output
+- tmux
 
 ## Obsidian
 
@@ -58,7 +69,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 
 ### Obsidian Hotkeys
 - toggle left sidebar
-- toggle ?? view
+- toggle Live Preview / Source mode
 - open (duplicate) tab to new window
 
 ## Productivity
@@ -67,12 +78,17 @@ These are opinionated lists of things I find awesome -- things I find productive
 - .bashrc: add comments, then use grep
 - learn scripts
 
+## Python
+- poetry (package manager)
+- 
+
 ## Misc
 - git repos for ~ ($HOME) directory, .ssh, /etc
 
 ## VSCode
 ### VSCode Extensions  (get them from ~/.vscode/extensions)
-
+- Cody
+- neovim
 
 ## Coding Practices
 - learn scripts
