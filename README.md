@@ -146,3 +146,25 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Nordic Ultimate Omega
 - Vitamin D-3 (NOW Foods)
 
+# Awesome Companies I Like
+- Costco
+- Zenni Optical https://www.zennioptical.com/ -- eyeglasses; I bought a pair of $150 glasses from them in Oct 2024 and love them; (progressives, hydrophobic coating, anti-reflective coating, 1.74 high-index lens; rush shipping -- delivered in 5 days)
+
+# Awesome Coffee Shops in Portland, Oregon metro area
+- 40 LBS (downtown SW 2nd/Main, Portland, OR)
+- Ava Roasteria (Kruse Way / Carmen / Meadows, Lake Oswego, OR)
+- Case Study (SW 10th/Morrison, Portland, OR)
+- Eastside Coffee Bar & Workspace (SE Hawthorne/21st, Portland, OR)
+- Fetch Coffee Roasters (SE Bybee/Milwaukie, Portland, OR) (Sellwood neighborhood)
+- Floyd's Coffee House & Wine Bar (SE 16th/Ladd, Portland, OR)
+- Guilder Cafe (inside Powells Books; SW Burnside/10th, Portland, OR)
+- JoLa Cafe (S Corbett / Pendleton, Portland, OR)
+- Maplewood Coffee & Tea (SW Multnomah/51st, Portland, OR)
+- Rose City Coffee (SE Powell/Milwaukie, Portland, OR)
+- Roseline Coffee (Boones Ferry / Bryant, Lake Oswego, OR) (Lake Grove neighborhood)
+- Roseline Coffee (SE Burnside/MLK, Portland, OR)
+- Simple. Local. Coffee. Pastry (SW 1st/Ash, Portland, OR)
+- Society Hotel (NW 3rd/Davis,  Portland, OR)
+- Upper Left Roasters (SE Hawthorne/12th, Portland, OR)
+- Wallflower Coffee Company (SE Division/32nd, Portland, OR)
+- Well & Good (SW 72nd/Beveland, Tigard, OR)
