@@ -23,6 +23,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Spotify
 - reMarkable
 - Radio Garden
+- Strongbox
 
 ## Mac Apps
 - Docker Desktop
@@ -38,7 +39,17 @@ These are opinionated lists of things I find awesome -- things I find productive
 - VSCode
 
 ## brew packages
--  cat
+- autojump 
+- bat (a better `cat`)
+- coreutils (file, shell, and text utilities)
+- ffmpeg
+- gron
+- jq
+- ncdu
+- ripgrep
+- shellcheck
+- tldr
+- v (access recent vim files)
 
 ## Chrome
 
@@ -82,7 +93,9 @@ These are opinionated lists of things I find awesome -- things I find productive
 
 ## Python
 - poetry (package manager)
-- 
+- pytest
+- __dict__
+- pudb
 
 ## Misc
 - git repos for ~ ($HOME) directory, .ssh, /etc
