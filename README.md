@@ -2,7 +2,7 @@
 
 These are opinionated lists of things I find awesome -- things I find productive, useful, and/or bring me joy and delight me, that I would not want to live without.
 
-- [iOS / iPhone Apps](#iOS / iPhone apps)
+- [iOS / iPhone Apps](#[iOS / iPhone Apps](#ios--iphone-apps)
 - [Mac Apps](#mac-apps)
 - [brew packages](#brew-packages)
 - [Chrome](#chrome)
