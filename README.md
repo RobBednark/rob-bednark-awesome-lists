@@ -25,6 +25,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 
 # Mac Apps
 - **Docker Desktop**
+- **Giphy** -- take screen recordings, edit them, add captions, and save as a gif https://giphy.com/apps/giphycapture
 - **homebrew**
 - **imessage-exporter** - export Apple iMessage messages to text and html formats; great for grep'ing and backups
 - **Obsidian** - note-taking
