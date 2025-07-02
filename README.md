@@ -24,39 +24,41 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Strongbox
 
 # Mac Apps
-- Docker Desktop
-- homebrew
-- imessage-exporter
-- Obsidian
-- Raycast
+- **Docker Desktop**
+- **homebrew**
+- **imessage-exporter** - export Apple iMessage messages to text and html formats; great for grep'ing and backups
+- **Obsidian** - note-taking
+- **Raycast**  - application launcher and productivity tool
     - Quicklinks with aliases (Chrome, Finder)
-- Rectange (window resizing/positioning)
-- Rocket - emoji
-- Spotify
-- Sublime Merge
-- VSCode
+- **REAPER** - audio editor (and video too)
+    - Digital Audio Workstation (DAW); similar to Power Tools, Audacity, Ableton, ...
+- **Rectangle** - window resizing/positioning
+- **Rocket** - quickly searching/adding emoji to wherever you are typing
+- **Spotify** - music
+- **Sublime Merge** - git GUI
+- **VSCode** - code editor, IDE
 
 ## brew packages
-- autojump 
-- bat (a better `cat`)
-- coreutils (file, shell, and text utilities)
-- ffmpeg
-- gron
-- jq
-- ncdu
-- ripgrep
-- shellcheck
-- tldr
-- v (access recent vim files)
+- **autojump**  - jump to frequently/recently-used directories
+- **bat** - a better `cat`
+- **coreutils** - file, shell, and text utilities
+- **ffmpeg**  - Play, record, convert, and stream audio and video
+- **gron** - make JSON greppable
+- **jq** - JSON processor
+- **ncdu** - disk-usage interactive tool
+- **ripgrep** - search tool like grep and ag / Silver Searcher
+- **shellcheck**  - static analysis and lint tool, for (ba)sh scripts
+- **tldr**  - simplified and community-driven man pages
+- **v** - access recent vim files
 
 # Chrome
 
 ## Chrome extensions
-- duplicate tab (I'm duplicating tabs all the time, e.g., Amazon - looking at a product, want to keep the tab open but click on other links in the page; LinkedIn - looking at a profile, keep it open, but click on links; Google Sheets -- want to open other tabs)
-- Extensity
-- Obsidian Web - highlight and save web page content to Obsidian
-- GoFullPage - 
-- MultiLine Text Selection - outstanding for copying multiple chunks of text from a page with a single copy operation
+- **duplicate tab** - quickly duplicate the current tab with a keyboard shortcut (I'm duplicating tabs all the time, e.g., Amazon - looking at a product, want to keep the tab open but click on other links in the page; LinkedIn - looking at a profile, keep it open, but click on links; Google Sheets -- want to open other tabs)
+- **Extensity** - enabling/disabling other extensions on the fly
+- **Obsidian Web** - highlight and save web page content to Obsidian
+- **GoFullPage** - scroll-and-save the entire current web page as a single png image, or as a pdf
+- **MultiLine Text Selection** - outstanding for copying multiple chunks of text from a page with a single copy operation
 - [Video Speed Controller](https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) - speed up/down to any speed using keystrokes (`S` and `D` by default); speed increment is one of the settings
 
 ## Chrome features
