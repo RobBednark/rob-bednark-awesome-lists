@@ -32,6 +32,8 @@ These are opinionated lists of things I find awesome -- things I find productive
     - Quicklinks with aliases (Chrome, Finder)
 - **REAPER** - audio editor (and video too)
     - Digital Audio Workstation (DAW); similar to Power Tools, Audacity, Ableton, ...
+    - 60-day free trial (unenforced); $60 discounted license for individuals (as of 2025-07-02), which includes free upgrades through next major version (not per month/year pricing)
+    - fantastic app
 - **Rectangle** - window resizing/positioning
 - **Rocket** - quickly searching/adding emoji to wherever you are typing
 - **Spotify** - music
