@@ -14,7 +14,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 
 # iOS / iPhone apps
 - Alarm Clock 
-- Brave browser - automatic ad blocking; no YouTube ads
+- Brave browser - automatic ad blocking, including YouTube ad-blocking
 - Google Play Books
 - Google Sheets
 - Shazam
@@ -28,6 +28,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - **Giphy** -- take screen recordings, edit them, add captions, and save as a gif https://giphy.com/apps/giphycapture
 - **homebrew**
 - **imessage-exporter** - export Apple iMessage messages to text and html formats; great for grep'ing and backups
+- **[KeePassXC](https://keepassxc.org)** - password manager
 - **Obsidian** - note-taking
 - **Raycast**  - application launcher and productivity tool
     - Quicklinks with aliases (Chrome, Finder)
