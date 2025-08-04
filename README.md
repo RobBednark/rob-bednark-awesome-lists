@@ -31,7 +31,11 @@ These are opinionated lists of things I find awesome -- things I find productive
 - **[KeePassXC](https://keepassxc.org)** - password manager
 - **Obsidian** - note-taking
 - **Raycast**  - application launcher and productivity tool
-    - Quicklinks with aliases (Chrome, Finder)
+    - Quicklinks with aliases (e.g., for Chrome and Finder)
+    - adding aliases for applications
+    - [Google Drive](https://www.raycast.com/vishaltelangre/google-drive) extension - search for files in Google Drive and open them
+    - [Screenshot](https://www.raycast.com/Aayush9029/screenshot) extension - `Paste Recent Screenshot` command
+    - [Spotify Player](https://www.raycast.com/mattisssa/spotify-player) extension (keystrokes for next/previous)
 - **REAPER** - audio editor (and video too)
     - Digital Audio Workstation (DAW); similar to Power Tools, Audacity, Ableton, ...
     - 60-day free trial (unenforced); $60 discounted license for individuals (as of 2025-07-02), which includes free upgrades through next major version (not per month/year pricing)
