@@ -96,7 +96,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - open (duplicate) tab to new window
 
 # Productivity
-- screenshot every n seconds 
+- screenshot every n seconds - I have a bash script I wrote that captures a screenshot every n seconds and saves them to a folder; this occassionally comes in very handy when I'm doing something like testing something, and I thought I saw it exhibit different behavior, so it go back to my screenshots and see what I did and if that was the case
 - Google Sheets: diary
 - .bashrc: add comments, then use grep
 - learn scripts
