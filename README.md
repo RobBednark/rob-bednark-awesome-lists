@@ -30,6 +30,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - **imessage-exporter** - export Apple iMessage messages to text and html formats; great for grep'ing and backups
 - **[KeePassXC](https://keepassxc.org)** - password manager
 - **Obsidian** - note-taking
+- **Preview (_Text Selection_ feature)** (functionality to copy text from a photo (Optical Character Recognition (OCR)) -- I don't use it often, but when I do, it's really nice (e.g., copying a long-ish chunk of text from a spot in a video).  The iOS Photos app has this same functionality.
 - **Raycast**  - application launcher and productivity tool
     - Quicklinks with aliases (e.g., for Chrome and Finder)
     - adding aliases for applications
