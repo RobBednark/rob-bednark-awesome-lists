@@ -14,7 +14,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 
 # iOS / iPhone apps
 - Alarm Clock 
-- Brave browser - automatic ad blocking, including YouTube ad-blocking
+- Brave browser - automatic ad-blocking, including YouTube ad-blocking
 - Google Play Books
 - Google Sheets
 - Shazam
@@ -108,7 +108,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - __dict__
 - pudb
 
-# Misc
+# Misc software tech
 - git repos for ~ ($HOME) directory, .ssh, /etc
 
 # VSCode
@@ -122,7 +122,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - .bashrc: adding comments with tips, then grep it
 - shell script options: for simpler coding, use environment variables instead of options, e.g., DEBUGGING=yes 
 
-# Awesome Things I Own
+# Awesome Things I Own / Use
 - Apple AirPods
 - bidet attachment (LUXE Bidet NEO 120 - $37 Amazon https://a.co/d/fixHvpU)
 - Capresso Electric Water Kettle
@@ -130,13 +130,14 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Chevy Bolt car
 - coffee grinder
 - electric toothbrush
-- gloves
+- gloves - Aegend lightweight winter gloves https://a.co/d/a6F0wqP
 - Google Chromecast
 - head lamp
 - ice cream maker
 - immersion blender
 - infrared thermometer gun
 - kitchen scale (Amazon Basics, $10 https://a.co/d/0z4CwNT)
+- Naturally Fresh Cat Litter Made From Walnut Shells, Pellet Non-Clumping https://a.co/d/3DeKOPo (zero tracking of litter outside the litter box -- wonderful)
 - portable laptop stand (SKERELL 17" to 48", Amazon, $63  https://a.co/d/3Ngozf8)
 - portable monitor/TV tripod stand (PERLESMITH, Amazon, $55, https://a.co/d/bkrlhyR)
 - Mr. Coffee Coffee Maker 4-cup (Amazon, $20, https://a.co/d/8zNYSYG)
@@ -144,7 +145,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 - reflective safety vest for walking/running (FREEMOVE, $14 Amazon, https://a.co/d/hPWTTY1)
 - reflective safety vest for walking/running (247 Viz , $29 Amazon, https://a.co/d/dGxdDRB)
 - reMarkable 2 digital paper display ($400 https://remarkable.com/store/overview/remarkable-2)
-- MacBook laptop
+- Apple MacBook laptop
 - security camera (Blink Mini Pan-Tilt Camera) (perfect for seeing our cats while we're traveling)
 - Sony noise-cancelling bluetooth headphones (WM-1000 XM4) ($300 https://a.co/d/2CGnMBT)
 - TENS EMS (AUVON Dual Channel) ($30 Amazon https://a.co/d/fLUHgr5)
@@ -181,6 +182,6 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Wallflower Coffee Company (SE Division/32nd, Portland, OR)
 - Well & Good (SW 72nd/Beveland, Tigard, OR)
 
-(TODO: merge [[about_me]] into this file)
+(TODO: merge [[About me - biography - skills - hobbies - facts - factoids - introductions - profile - strengths - likes - needs - interests]] into this file)
 
 (inspired by https://github.com/jlevy/the-art-of-command-line)
