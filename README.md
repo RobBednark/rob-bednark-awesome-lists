@@ -182,6 +182,22 @@ These are opinionated lists of things I find awesome -- things I find productive
 - Wallflower Coffee Company (SE Division/32nd, Portland, OR)
 - Well & Good (SW 72nd/Beveland, Tigard, OR)
 
+# Awesome shows / series
+- Bob's Burgers
+- Colin from Accounts
+- English Teacher
+- Fisk
+- Go On
+- Ludwig
+- Shrinking
+- Superstore
+- The Cleaner
+- The Four Seasons
+- The Repair Shop
+- The Residence
+
+
+
 (TODO: merge [[About me - biography - skills - hobbies - facts - factoids - introductions - profile - strengths - likes - needs - interests]] into this file)
 
 (inspired by https://github.com/jlevy/the-art-of-command-line)
