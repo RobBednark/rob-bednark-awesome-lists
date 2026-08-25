@@ -88,8 +88,12 @@ These are opinionated lists of things I find awesome -- things I find productive
 # Obsidian
 
 ## Obsidian Extensions
-- Zoom
-- Image ??
+- File Tree Alternative    obsidian://show-plugin?id=file-tree-alternative
+- Heading Level Indent  (indents each heading section by the heading level (H1, H2, ...))  obsidian://show-plugin?id=heading-level-indent 
+[Heading Level Indent](obsidian://show-plugin?id=heading-level-indent) 
+- Image Converter (nice for converting pasted images to a given format and quality; I convert to WEBP with 20% quality for small filesizes)  obsidian://show-plugin?id=image-converter
+- Quick Switcher++ (excellent for searching by headings)  obsidian://show-plugin?id=darlal-switcher-plus
+- Zoom  (excellent for being able to "zoom" in on a heading, showing only that heading and everything underneath; similar functionality to what Roam Research provides)  obsidian://show-plugin?id=obsidian-zoom
 
 ## Obsidian Hotkeys
 - toggle left sidebar
@@ -198,6 +202,7 @@ These are opinionated lists of things I find awesome -- things I find productive
 
 
 
+(TODO: copy items from #Favorites in paste.txt)
 (TODO: merge [[About me - biography - skills - hobbies - facts - factoids - introductions - profile - strengths - likes - needs - interests]] into this file)
 
 (inspired by https://github.com/jlevy/the-art-of-command-line)
