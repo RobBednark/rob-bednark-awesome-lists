@@ -88,12 +88,26 @@ These are opinionated lists of things I find awesome -- things I find productive
 # Obsidian
 
 ## Obsidian Extensions
-- File Tree Alternative    obsidian://show-plugin?id=file-tree-alternative
-- Heading Level Indent  (indents each heading section by the heading level (H1, H2, ...))  obsidian://show-plugin?id=heading-level-indent 
-[Heading Level Indent](obsidian://show-plugin?id=heading-level-indent) 
-- Image Converter (nice for converting pasted images to a given format and quality; I convert to WEBP with 20% quality for small filesizes)  obsidian://show-plugin?id=image-converter
-- Quick Switcher++ (excellent for searching by headings)  obsidian://show-plugin?id=darlal-switcher-plus
-- Zoom  (excellent for being able to "zoom" in on a heading, showing only that heading and everything underneath; similar functionality to what Roam Research provides)  obsidian://show-plugin?id=obsidian-zoom
+- File Tree Alternative
+    - obsidian://show-plugin?id=file-tree-alternative
+    - https://community.obsidian.md/plugins/file-tree-alternative
+    - https://github.com/ozntel/file-tree-alternative
+- Heading Level Indent  (indents each heading section by the heading level (H1, H2, ...))
+    - obsidian://show-plugin?id=heading-level-indent 
+    - https://community.obsidian.md/plugins/heading-level-indent
+    - https://github.com/svonjoi/obsidian-heading-level-indent
+- Image Converter (nice for converting pasted images to a given format and quality; I convert to WEBP with 20% quality for small filesizes)
+    - obsidian://show-plugin?id=image-converter
+    - https://community.obsidian.md/plugins/image-converter
+    - https://github.com/xryul/obsidian-image-converter
+- Quick Switcher++ (excellent for searching by headings)
+    - obsidian://show-plugin?id=darlal-switcher-plus
+    - https://community.obsidian.md/plugins/darlal-switcher-plus
+    - https://github.com/darlal/obsidian-switcher-plus
+- Zoom  (excellent for being able to "zoom" in on a heading, showing only that heading and everything underneath; similar functionality to what Roam Research provides)
+    - obsidian://show-plugin?id=obsidian-zoomm
+    - https://community.obsidian.md/plugins/obsidian-zoom
+    - https://github.com/vslinko/obsidian-zoom
 
 ## Obsidian Hotkeys
 - toggle left sidebar
